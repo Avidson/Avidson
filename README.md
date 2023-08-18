@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Avidson Suncity Chisom
+- 👋 Hi, I’m @Avidson Cornelius Chisom
 - 👀 I’m a pragmatic web programmer with few years of experience in my credit box. I work a lot with Python as a language and Django as the framework. 
   Before going fully into web development, 
   I have had experience working as a Computer Network Associate trained by Cisco Systems. I have been working as a freelance developer, and so far I have been able to optimally 
